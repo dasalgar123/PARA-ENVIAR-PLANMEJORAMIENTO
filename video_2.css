@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #ffffff; color: #000000;}
+header { background-color: green; color: white; text-align: center; padding: 1rem;}
+.intro { background-color: green; padding: 1rem; text-align: center; border: 1px solid #ddd; margin: 1rem; border-radius: 20px 40px 20px 40px ;}
+section { padding: 2rem; border-bottom: 1px solid #ddd;}
+h2 { color: green;}
+footer { text-align: center; padding: 1rem; background-color: #000000; color: white; position: fixed; width: 100%; bottom: 0;}
+.audio { margin-top: 1rem;}
+.audio-btn { background-color: green; color: white; padding: 10px 15px; border: none; cursor: pointer; font-size: 16px; margin-top: 10px;}
+.audio-btn:hover { background-color: green;}
+code { background-color: #f4f4f4; padding: 2px 4px; border-radius: 4px;}
+.alect { color: red; font-size: 16px; text-align: center;}
